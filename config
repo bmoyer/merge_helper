@@ -1,0 +1,5 @@
+{
+    "user":"user@gmail.com",
+    "password":"password",
+    "my_repos":["repo1", "repo2"]
+}
